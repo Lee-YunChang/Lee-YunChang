@@ -1,6 +1,6 @@
 
 
-####  :clipboard: Introduce
+#  :clipboard: Introduce
   ---
 - Email : dbsckd512@naver.com 
 - Resume : <a href="https://numerous-tangelo-9c8.notion.site/1d450636aeec49279d63aa494b6f4445?pvs=4">이력서</a>
@@ -8,7 +8,7 @@
  <br/>
  <br/>
   
-####  :clipboard: Backend Programmer
+#  :clipboard: Backend Programmer
   
  <br/>
 
