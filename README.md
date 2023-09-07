@@ -1,35 +1,31 @@
-<div align="center"> 
 
 
+####  :clipboard: Introduce
+  ---
+- Email : dbsckd512@naver.com 
+- Resume : <a href="https://numerous-tangelo-9c8.notion.site/1d450636aeec49279d63aa494b6f4445?pvs=4">이력서</a>
   
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: Backend Programmer
   
  <br/>
+
   
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+- <img src="https://img.shields.io/badge/JAVA-007396?style=platic&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=platic&logo=Python&logoColor=white"> <br/>
+- <img src="https://img.shields.io/badge/Spring-6DB33F?style=platic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=platic&logo=django&logoColor=white"> <br/>
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=platic&logo=MySQL&logoColor=white">
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=platic&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=platic&logo=Kubernetes&logoColor=white"/>
+- <img src="https://img.shields.io/badge/linux-FCC624?style=platic&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=platic&logo=Ubuntu&logoColor=white"/>
+- <img src="https://img.shields.io/badge/aws-232F3E?style=platic&logo=Amazon aws&logoColor=white">
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=platic&logo=github&logoColor=white">
+
  
    <br/>
-   <br/>
- 
-#### :pencil2: Study log
  
   <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-YunChang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YunChang&show_icons=true&theme=radical)
-  
-</div>
