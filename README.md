@@ -3,7 +3,7 @@
 #  :clipboard: Introduce
   ---
 - Email : dbsckd512@naver.com 
-- Resume : <a href="https://numerous-tangelo-9c8.notion.site/1d450636aeec49279d63aa494b6f4445?pvs=4">이력서</a>
+- Resume : <a href="https://numerous-tangelo-9c8.notion.site/Backend-Engineer-065fa4b526cd4a799b24425a93a1b35c?pvs=4">이력서</a>
   
  <br/>
  <br/>
